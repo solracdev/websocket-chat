@@ -12,7 +12,7 @@ This repository contains a simple chat application that uses WebSockets to commu
 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/golang-websocket-chat.git
-``
+```
 
 
 let socket = new WebSocket("ws://localhost:8050/ws")
